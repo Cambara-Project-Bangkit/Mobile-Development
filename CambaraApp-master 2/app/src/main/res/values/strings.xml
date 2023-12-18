@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BangkitCapstone</string>
+    <string name="massage_welcome">"Photographing the Beauty of Balinese Script, Bringing the Culture Closer"</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_account">Create Account</string>
+    <string name="login_with_google">Login With Google</string>
+    <string name="congrats">Congrats!</string>
+    <string name="account_created">Your account has been created</string>
+    <string name="login_succeed">Your login succeed</string>
+    <string name="next">Continue</string>
+    <string name="next_onboarding">Next</string>
+    <string name="finish_onboarding">Finish</string>
+    <string name="logout_confirmation">Are you sure you want to log out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Logout</string>
+    <string name="greeting">Hello %1$s</string>
+    <string name="high_accurcy">High Accuracy</string>
+    <string name="low_accurcy">Low Accuracy</string>
+    <string name="delete_button_description">Delete Accuracy</string>
+</resources>
