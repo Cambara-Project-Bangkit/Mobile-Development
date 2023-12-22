@@ -20,6 +20,6 @@
 - Fragment
 - Room
 ## Contributors
-`A298BSY1949` - Ngurah Manik Mahardika
+`A298BSY1949` - Ngurah Manik Mahardika - Universitas Pendidikan Ganesha
 <br>
-`A194BSY2914` - Bijan Austin Pratama
+`A194BSY2914` - Bijan Austin Pratama- Universitas Budi Luhur
