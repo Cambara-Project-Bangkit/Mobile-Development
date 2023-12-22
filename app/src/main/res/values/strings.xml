@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BangkitCapstone</string>
+    <string name="massage_welcome">"Photographing the Beauty of Balinese Script, Bringing the Culture Closer"</string>
+    <string name="login">Masuk</string>
+    <string name="sign_up">Daftar</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="login_with_google">Login With Google</string>
+    <string name="congrats">Selamat!</string>
+    <string name="account_created">Akun berhasil di buat</string>
+    <string name="login_succeed">Berhasil masuk</string>
+    <string name="next">Melanjutkan</string>
+    <string name="next_onboarding">Berikutnya</string>
+    <string name="finish_onboarding">Selesai</string>
+    <string name="logout_confirmation">Kamu yakin akan keluar?</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logout">Keluar</string>
+    <string name="greeting">Halo %1$s</string>
+    <string name="high_accurcy">Akurasi Tertinggi</string>
+    <string name="low_accurcy">Akurasi Terendah</string>
+    <string name="delete_button_description">Delete Accuracy</string>
+    <string name="text_information_camera_1">1. Aksara ditulis pada kertas polos berwarna putih</string>
+    <string name="text_information_camera_2">2. Sesuaikan cahaya pada foto</string>
+    <string name="text_information_camera_3">3. Ambil gambar yang jelas</string>
+    <string name="text_information_drawing_1">1. Gambar aksara sesuai dengan keinginan</string>
+    <string name="text_information_drawing_2">2. Jika salah gambar, klik tombol hapus untuk menghapus gambar</string>
+    <string name="text_information_drawing_3">3. Klik tombol simpan gambar, jika gambar sudah selesai di buat, gambar akan otomatis tersimpan di galeri</string>
+</resources>
